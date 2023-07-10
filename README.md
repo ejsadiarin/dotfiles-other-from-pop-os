@@ -12,6 +12,8 @@
 - will try Kitty
 Reason: cannot make Alacritty transparent idk why opacity do not work on i3 wtf, but works on Pop!_OS Gnome (Cosmic) though
 
+### Sxhkd --> Shortcut Keys Manager, independent keybindings
+
 ### Nvim
 - install via pacman (if using Arch) or using appimage for latest install
 - install lazyvim starter
