@@ -114,7 +114,7 @@ source $ZSH/oh-my-zsh.sh
 alias jetbrains="/opt/jetbrains/jetbrains-toolbox"
 alias discord="exec flatpak run com.discordapp.Discord"
 alias brave="exec flatpak run com.brave.Browser"
-alias spotify="exec flatpak run com.spotify.Client"
+alias spotify="flatpak run com.spotify.Client"
 alias postman="exec flatpak run com.getpostman.Postman"
 
 export PATH="$PATH:$HOME/.dotnet/tools"
