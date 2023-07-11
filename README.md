@@ -3,6 +3,7 @@
 - I uninstalled Pop!_OS because of some package errors, but I might get back to it lmao (ima just distro hop for a sec)
 - gonna try Arch so I can say I use Arch btw to flex my catppuccin mocha configs which can just be installed to any other distro lmao
 - make the machine configured for C# .NET development in Linux
+- update (July 11, 2023): going to try Endeavour OS or archinstall with Hyprland as WM
 
 ### Necessary Installations:
 - Nerd Fonts: JetBrainsMono NF, RobotoMono NF, MaterialIcons?, Feather?
@@ -23,21 +24,24 @@ Reason: cannot make Alacritty transparent idk why opacity do not work on i3 wtf,
 
 ### WM
 - if using i3, change the keybindings for window management (see i3 config)
+- Hyprland, also change keybindings if necessary
 
 ### Global Search
 - Rofi, try to configure theme
+- keybind it (bindsym in i3, in Hyprland idk look at docs)
 
 ### Themes, Icons, and Other Essentials
 - Install Breeze
 - File System --> Nautilus, Thunar, or idk any
 
 ### Shell
-- oh-my-zsh
+- zsh --> oh-my-zsh
 - oh-my-zsh catppuccin mocha theme
+- try to look into fish shell
 
 ### Bar
 - Polybar
-- or Waybar idk
+- Waybar --> if using Hyprland, which is most likely I will be using
 
 ### When installed:
 - ensure git is installed, then configure git config --global user.name and user.email
